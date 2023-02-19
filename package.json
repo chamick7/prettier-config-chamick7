@@ -1,7 +1,11 @@
 {
   "name": "prettier-config-chamick7",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prettier config for javascript/typescript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamick7/prettier-config-chamick7.git"
+  },
   "main": "index.js",
   "files": [
     "index.js"
